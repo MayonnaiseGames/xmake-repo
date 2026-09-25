@@ -5,6 +5,7 @@ package("minifb")
 
     add_urls("https://github.com/emoon/minifb.git")
     add_versions("2023.09.21", "2ce2449b1bc8d7c6d20c31b86244f1e540f2e788")
+    add_versions("0.14.0", "86bda49aeafafe1f02e736dee7a01a71f45610b5")
 
     add_deps("cmake")
 
